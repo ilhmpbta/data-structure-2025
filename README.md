@@ -2,6 +2,8 @@
 
 An archive of my journey through the **Data Structure** course I completed in early 2025, based on the book *Advanced Topics in C* by Noel Kalicharan.
 
+Check out my [final project!](/final_project/)
+
 ## About
 
 This repository contains my implementations of key data structure concepts and problems, written in C. It builds on my earlier foundational work in [Fundamental Programming 2024](https://github.com/ilhmpbta/fundamental-programming-2024), and reflects how I gradually leveled up my coding and problem-solving skills.
